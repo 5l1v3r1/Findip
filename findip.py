@@ -4,8 +4,8 @@
 from os import *
 from urllib import *
 from time import *
-import json 
-import requests
+
+
 
 banner = """
 \033[1;32m
